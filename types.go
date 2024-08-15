@@ -101,6 +101,7 @@ const (
 	TypeCAA        uint16 = 257
 	TypeAVC        uint16 = 258
 	TypeAMTRELAY   uint16 = 260
+	TypeLUA	       uint16 = 261
 
 	TypeTKEY uint16 = 249
 	TypeTSIG uint16 = 250
