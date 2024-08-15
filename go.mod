@@ -1,4 +1,4 @@
-module github.com/miekg/dns
+module github.com/larsl-net/dns
 
 go 1.19
 
